@@ -1,2 +1,15 @@
 # DSA
-Solutions to data structures and algorithms problems
+
+My C++ solutions for Data Structures and Algorithms problems.
+
+## Topics
+
+- Arrays
+  - [Two Sum](arrays/two_sum.cpp)
+
+- Searching
+  - [Linear Search](searching/linear_search.cpp)
+
+## Language
+
+C++
