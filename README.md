@@ -9,6 +9,7 @@ My C++ solutions for Data Structures and Algorithms problems.
 
 - Searching
   - [Linear Search](searching/linear_search.cpp)
+  - [Binary Search](searching/binary_search.cpp)
 
 ## Language
 
