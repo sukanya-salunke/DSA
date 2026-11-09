@@ -11,6 +11,9 @@ My C++ solutions for Data Structures and Algorithms problems.
   - [Linear Search](searching/linear_search.cpp)
   - [Binary Search](searching/binary_search.cpp)
 
+- Sorting
+  - [Insertion Sort](sorting/insertion_sort.cpp)
+
 ## Language
 
 C++
