@@ -13,6 +13,7 @@ My C++ solutions for Data Structures and Algorithms problems.
 
 - Sorting
   - [Insertion Sort](sorting/insertion_sort.cpp)
+  - [Selection Sort](sorting/selection_sort.cpp)
 
 ## Language
 
