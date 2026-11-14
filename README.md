@@ -14,6 +14,7 @@ My C++ solutions for Data Structures and Algorithms problems.
 - Sorting
   - [Insertion Sort](sorting/insertion_sort.cpp)
   - [Selection Sort](sorting/selection_sort.cpp)
+  - [Bubble Sort](sorting/bubble_sort.cpp)
 
 ## Language
 
